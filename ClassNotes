@@ -1,0 +1,35 @@
+HTML  - Hyper Text Markup Language
+CSS 
+JavaScript 
+Bootstrap
+---------
+
+React JS 
+Node JS, Express, Mongo DB 
+
+Full Stack (MERN - Developer )
+-------------------------------
+Software
+Notepad ++  - Editor to develop the code
+VS Code   - IDE
+       - VS 
+       - VS code 
+
+
+
+-----------------
+echo "# Dev-6pm" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/narasimhareddyprostack/Dev-6pm.git
+git push -u origin main
+
+---------------------------------
+Web Developer 
+CLI  - Command Line Interface 
+
+GIT Hub   | React   | Angular  | Node   
+
+GIT         npm       ng         node
